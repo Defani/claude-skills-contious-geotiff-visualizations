@@ -1,4 +1,5 @@
 # continuous-raster-visualization
+> **Note:** You just need to download the [`continuous-raster-visualization.skill`](https://github.com/Defani/claude-skills-contious-geotiff-visualizations/raw/main/continuous-raster-visualization.skill) file.
 
 A Claude Skill for rendering single-band, continuous-value georeferenced rasters
 (GeoTIFF) into publication-style map figures, built for remote sensing workflows
